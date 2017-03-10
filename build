@@ -1,0 +1,3 @@
+echo 'This will take a while...get yourself a coffee.'
+echo ' '
+docker build -t futurecoders/intellij .
